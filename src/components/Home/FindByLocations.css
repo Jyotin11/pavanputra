@@ -1,0 +1,10 @@
+.grid-container{
+    justify-content: center;
+   
+}
+
+.col{
+    width: 400px;
+    justify-content: center;
+    display: flex;
+}

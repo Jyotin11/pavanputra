@@ -1,0 +1,23 @@
+.featured-heading {
+    text-align: center;
+}
+
+.cart-icon {
+    display: flex;
+}
+
+.view-btn {
+    background-color: #0fca98 !important;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 10px !important;
+    padding: 3% !important;
+}
+
+.cart-footer {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+
+}
